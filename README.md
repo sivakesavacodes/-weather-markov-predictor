@@ -1,5 +1,11 @@
 # MARKOV WEATHER PREDICTOR – A STOCHASTIC PROCESS FOR WEATHER PREDICTION
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://5frtkkawtnf5aazokkb8ar.streamlit.app/)
+[![Python 3.10+](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
+> 🚀 **Live Interactive Web App:** [https://5frtkkawtnf5aazokkb8ar.streamlit.app/](https://5frtkkawtnf5aazokkb8ar.streamlit.app/)
+
 An interactive Python application demonstrating how **Discrete-Time Markov Chains (DTMC)** and probability theory are used to model and predict weather state transitions.
 
 ---
